@@ -9,19 +9,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "243891716833"
-global.ownername = "🌹MR KEVIN TSH🌹"
+global.ownernomer = "242064903068"
+global.ownername = "𓊈𖤇❮𝑺𝑨𝑷𝑯𝒀𓊉 𐂂𐂂❥⃝𝑮𝑼𝑪𝑯𝒀𐂂❥⃝"
 global.ytname = "YT: alvinblaste...13"
 global.socialm = "GitHub: Kevin-Tsh"
-global.location = "Cong Kinshasa, Haut Katanga, Lubumbashi"
+global.location = "Cong Brazzaville, Brazzaville, Brazzaville"
 
-global.ownernumber = '243891716833'  //creator number
-global.ownername = '🌹𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇🌹' //owner name
+global.ownernumber = '242064903068'  //creator number
+global.ownername = '𓊈𖤇❮𝑺𝑨𝑷𝑯𝒀𓊉 𐂂𐂂❥⃝𝑮𝑼𝑪𝑯𝒀𐂂❥⃝' //owner name
 global.botname = '🐲⸢𝐆𝐎𝐊𝐔-𝐌𝐃⸥🐲' //name of the bot
 
 //sticker details
-global.packname = 'FML-GRIMM🐲🌹'
-global.author = '𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇'
+global.packname = '𓊈𖤇❮𝑺𝑨𝑷𝑯𝒀𓊉 𐂂𐂂❥⃝𝑮𝑼𝑪𝑯𝒀𐂂❥⃝'
+global.author = '𓊈𖤇❮𝑺𝑨𝑷𝑯𝒀𓊉 𐂂𐂂❥⃝𝑮𝑼𝑪𝑯𝒀𐂂❥⃝'
 
 //console view/theme
 global.themeemoji = '🌹'
@@ -37,9 +37,9 @@ global.prefa = ['','!','.','#','🌹']
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
-global.autoread = false //auto read messages
+global.autoread = true //auto read messages
 global.autobio = false //auto update bio
-global.anti92 = false //auto block +92 
+global.anti92 = true //auto block +92 
 global.autoswview = false //auto view status/story
 
 //menu type 
